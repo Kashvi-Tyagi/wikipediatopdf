@@ -1,0 +1,5 @@
+Flask
+wikipedia-api
+requests
+beautifulsoup4
+fpdf
